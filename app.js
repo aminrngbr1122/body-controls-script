@@ -1,4 +1,5 @@
 ///====================Body Script Control pkg========================///
+///========== git hub : aminrngbr1122============///
 
 function body_write(text){
 	document.write(`${text}`);
